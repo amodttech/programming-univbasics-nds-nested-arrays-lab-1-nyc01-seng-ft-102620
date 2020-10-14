@@ -23,9 +23,7 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   
   storage_room = [
-    [
-  "Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"
-],
+    ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
 [
   "Strawberries",
   "Potatoes",
