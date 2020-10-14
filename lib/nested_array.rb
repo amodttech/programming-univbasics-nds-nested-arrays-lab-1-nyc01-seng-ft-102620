@@ -36,6 +36,8 @@ def sorted_matrix
   
   storage_room_sorted = []
   storage_room_sorted = storage_room[0].sort
+  storage_room_sorted = storage_room[1].sort
+  storage_room_sorted
   
   
   
